@@ -9,8 +9,7 @@ Not changing. Done pro forma.
 
 ## Usage
 Console App run through terminal
-
-
+```
 Help:
 ```
 Gives help when asked.
