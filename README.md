@@ -20,13 +20,9 @@ Use:
 Pass 2 paths for txt or csv files as arguments.
 It will display the outcome of shuffle.
 Highly recommed using -vertical option.
-
 Recommendation:
 ```
 I can't stres enough that it is highly recommended to use -v option
-
-```
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marekstanislawmeyer/
